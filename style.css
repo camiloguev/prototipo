@@ -598,7 +598,7 @@ a:focus {
   text-align: center;
 }
 .page-title {
-  height: 150px;
+  height: 150px !important;
 }
 .site-title {
   font-family: "Quattrocento Sans", sans-serif;
@@ -1111,7 +1111,7 @@ a.smoothup {
   color: #999;
 }
 .img-footer {
-  height: 100px;
+  height: 100px !important;
 }
 .site-footer a {
   text-decoration: none;
